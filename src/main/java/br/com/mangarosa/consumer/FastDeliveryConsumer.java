@@ -1,3 +1,5 @@
+
+
 package br.com.mangarosa.consumer; //imports
 //FEITO POR SAMIRA
 import br.com.mangarosa.config.RedisConfig;
